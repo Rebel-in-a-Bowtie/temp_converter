@@ -23,6 +23,7 @@ input[type=number] {
     text-align: center;
     border: 0;
     font-family: asap, sans-serif;
+    outline: none;
 }
 
 #fahrenheit {
